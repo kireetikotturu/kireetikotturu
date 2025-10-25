@@ -2,7 +2,7 @@
      alt="logo" width="100" style="vertical-align:middle;" />
 
 Hi! Welcome! 👋  
-I'm **Chandra Kireeti** — Web Developer from India | Building fun projects with JS ✨
+I'm **Chandra Kireeti** — Creating fun projects with JS ✨
 
 ### Connect with me
 [Email](mailto:kireetikotturi2@gmail.com) | 
