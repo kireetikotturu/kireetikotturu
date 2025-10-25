@@ -3,8 +3,7 @@
 <img src='https://github.com/kireetikotturu/kireetikotturu/blob/main/mylogo.svg' 
      alt='logo' width='100px' style="margin:0 auto; display:block;"/>
 
-Hi! Welcome! 👋  
-I’m **Chandra Kireeti**.
+Hi! Welcome! 👋 I’m **Chandra Kireeti**.
 
 ### Connect with me
 [Email](mailto:kireetikotturi2@gmail.com) |
