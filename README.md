@@ -1,41 +1,28 @@
-<!-- Logo or header -->
-<p align="center">
-  <img src="https://github.com/kireetikotturu/quizaccio/assets/logo.png" width="100" alt="logo" />
-</p>
+<div style="text-align: center;">
+<img src='https://github.com/aridsm/aridsm/blob/main/logo.svg' alt='logo' width='100px' margin='0 auto'/>
 
-<h1 align="center">Oi! 👋 I'm Kireeti</h1>
+Oi! Bem vindo(a)! 👋
+Eu sou a **Ariane**.
+  
+### Entre em contato
+  [Email](mailto:arianemorelato@gmail.com)  |
+  [Instagram](https://www.instagram.com/arianemorelt/) | 
+  [Linkedin](https://www.linkedin.com/in/ariane-morelato/)
+  
+### Linguagens e ferramentas
 
-<p align="center">
-  Welcome to my project <b>Quizaccio</b> — a fun quiz web app built with HTML, CSS, and JavaScript! 🎓  
-</p>
 
----
+![Vue](https://img.shields.io/badge/vue-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![Tailwind](https://img.shields.io/badge/tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=white)
+![Nuxt](https://img.shields.io/badge/nuxt-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320ADD4.svg?style=for-the-badge&logo=react&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-%23EB3D5D.svg?style=for-the-badge&logo=SASS&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%238B26C1.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-### 📫 Get in Touch
-
-- **Email:** [your@email.com](mailto:your@email.com)  
-- **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
-- **Instagram:** [instagram.com/yourhandle](https://instagram.com/yourhandle)
-
----
-
-### 💻 Languages & Tools
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
-</p>
-
----
-
-### 🧠 About the Project
-
-Quizaccio is a simple quiz app divided into sections like **General Knowledge**, **Science**, **Mathematics**, and **Indian History**.  
-It’s built to help beginners practice DOM manipulation, event handling, and JSON usage in JavaScript.
-
----
-
-⭐️ **Feel free to fork, star, or contribute!**
+</div>
