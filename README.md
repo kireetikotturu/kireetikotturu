@@ -1,19 +1,18 @@
 <div style="text-align: center;">
 
-  <!-- Logo (replace with your own logo if you have one) -->
-  <img src="https://via.placeholder.com/100" alt="logo" width="100px" style="margin: 0 auto;" />
+  <img src='https://github.com/aridsm/aridsm/blob/main/logo.svg' alt='logo' width='100px' margin='0 auto'/>
 
   👋 Hi! I'm **Chandra Kireeti**  
   Web Developer from India | Building fun projects with JS ✨
 
-  <br><br>
+  <br>
   ### Connect with me
   [Email](mailto:kireetikotturi2@gmail.com) |
   [LinkedIn](https://www.linkedin.com/in/chandra-kireeti-kotturu-353512222/) |
   [LeetCode](https://leetcode.com/chandra_kireeti/) |
   [GitHub](https://github.com/kireetikotturu)
 
-  <br><br>
+  <br>
   ### Languages & Tools
 
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
