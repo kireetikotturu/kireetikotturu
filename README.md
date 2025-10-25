@@ -5,17 +5,17 @@
        width='100px' 
        style="margin: 0 auto; display: block;"/>
 
-  <p>Oi! Bem vindo(a)! 👋</p>
-  <p>Eu sou <strong>Chandra Kireeti</strong></p>
+  <p>Hi! Welcome! 👋</p>
+  <p>I'm <strong>Chandra Kireeti</strong></p>
   <p>Web Developer from India | Building fun projects with JS ✨</p>
 
-  ### Entre em contato
+  ### Connect with me
   [Email](mailto:kireetikotturi2@gmail.com) |
   [LinkedIn](https://www.linkedin.com/in/chandra-kireeti-kotturu-353512222/) |
   [LeetCode](https://leetcode.com/chandra_kireeti/) |
   [GitHub](https://github.com/kireetikotturu)
 
-  ### Linguagens e ferramentas
+  ### Languages & Tools
 
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
