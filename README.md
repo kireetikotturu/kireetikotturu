@@ -1,19 +1,20 @@
 <div style="text-align: center;">
 
-  <img src='https://github.com/kireetikotturu/kireetikotturu/blob/main/mylogo.svg' alt='logo' width='100px' margin='0 auto'/>
+  <img src='https://github.com/kireetikotturu/kireetikotturu/blob/main/mylogo.svg' alt='logo' width='100px' style="margin: 0 auto;"/>
 
-  👋 Hi! I'm **Chandra Kireeti**  
+  Oi! Bem vindo(a)! 👋  
+  Eu sou **Chandra Kireeti**  
   Web Developer from India | Building fun projects with JS ✨
 
   <br>
-  ### Connect with me
+  ### Entre em contato
   [Email](mailto:kireetikotturi2@gmail.com) |
   [LinkedIn](https://www.linkedin.com/in/chandra-kireeti-kotturu-353512222/) |
   [LeetCode](https://leetcode.com/chandra_kireeti/) |
   [GitHub](https://github.com/kireetikotturu)
 
   <br>
-  ### Languages & Tools
+  ### Linguagens e ferramentas
 
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
