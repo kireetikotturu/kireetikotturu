@@ -1,6 +1,6 @@
 <div style="text-align: center;">
 
-  <img src='https://github.com/aridsm/aridsm/blob/main/logo.svg' alt='logo' width='100px' margin='0 auto'/>
+  <img src='https://github.com/kireetikotturu/kireetikotturu/blob/main/mylogo.svg' alt='logo' width='100px' margin='0 auto'/>
 
   👋 Hi! I'm **Chandra Kireeti**  
   Web Developer from India | Building fun projects with JS ✨
