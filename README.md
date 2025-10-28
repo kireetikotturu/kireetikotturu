@@ -8,9 +8,7 @@ Hi! Welcome! 👋 I’m **Chandra Kireeti**.
 ### Connect with me
 [Email](mailto:kireetikotturi2@gmail.com) |
 [LinkedIn](https://www.linkedin.com/in/chandra-kireeti-kotturu-353512222/) | 
-[LeetCode](https://leetcode.com/chandra_kireeti/) |
-[GitHub](https://github.com/kireetikotturu)
-
+[LeetCode](https://leetcode.com/chandra_kireeti/)
 ### Languages & Tools
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)
